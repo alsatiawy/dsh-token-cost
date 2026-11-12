@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token Cost Meter",
+    "description": "Shows the current session's estimated token cost below the composer, priced with the official DeepSeek price list and peak/off-peak rates."
+  }
+}

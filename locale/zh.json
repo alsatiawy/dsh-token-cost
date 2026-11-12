@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token 费用统计",
+    "description": "在输入框下方显示当前会话的 Token 费用，按 DeepSeek 官方价格表和峰谷时段估算。"
+  }
+}
